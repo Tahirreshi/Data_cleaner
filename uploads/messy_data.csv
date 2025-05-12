@@ -1,0 +1,11 @@
+Name,Age,City,Salary,Department
+Alice,25.0,New York,70000.0,IT
+Bob,30.0,Los Angeles,80000.0,HR
+,,New York,75000.0,IT
+David,45.0,Chicago,,Finance
+Eva,28.0,,68000.0,HR
+Frank,,Chicago,72000.0,Finance
+Grace,22.0,Houston,,HR
+,35.0,Houston,81000.0,IT
+Ivy,,New York,60000.0,
+Jake,40.0,,73000.0,Finance

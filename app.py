@@ -84,6 +84,7 @@ def clean():
     elif filename.endswith('.json'):
         df.to_json(cleaned_filepath, orient='records', lines=True)
 
+
     return send_file(cleaned_filepath, as_attachment=True)
 
 if __name__ == '__main__':
